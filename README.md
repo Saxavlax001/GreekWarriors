@@ -1,4 +1,4 @@
-# GreekWarriors
+# GreekWarriors Char Packs
 Here you can find some of available char packs where you can import and play in game.
 
 What are char packs?
