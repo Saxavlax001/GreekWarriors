@@ -3,7 +3,8 @@ Here you can find some of available char packs where you can import and play in 
 
 What are char packs?
 Char packs is a method I created to be able to add your own characters and play with them in my game.
-How it works:
+
+How it works and how you can make your own char pack:
 1st step: You must have a folder with char name (for example "Test123") + the following folders inside previous one 
 ("BackImages", "BackMusic", "BombExplodeSounds", "BombImage", "BulletImages", "CharImage",
 "EnemiesImages", "GameOverSounds", "ThrowBulletSounds", "ThrowBombSounds", "WinSounds")
