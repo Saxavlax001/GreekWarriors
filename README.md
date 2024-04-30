@@ -18,7 +18,7 @@ How it works and how you can make your own char pack:
 Windows: %userprofile%\AppData\LocalLow\
 AntouanCodes\GreekWarriors
 
-Android: /Android/data/com.AntouanCodes.GreekWarriors/files
+Android: "your internal storage(/storage/emulated/0)"/GreekWarriors (Note : You must create by yourself the folder with the name of "GreekWarriors" by using any file explorer app, else you won't be able to add any custom character.
 
 4th step: Enter the folder name that you made for your character and press play. If everything is fine, the game will start as expected.
 
